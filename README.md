@@ -109,3 +109,5 @@ python learn.py --model_name Transformer --data_set csi300 --hidden_size 32 --nu
       url={https://arxiv.org/abs/2411.18997}, 
 }
 ```
+## Citation
+Yonggai Zhuang: start128@163.com
